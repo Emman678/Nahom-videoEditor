@@ -38,6 +38,6 @@ window.NAHOM_PROJECTS = [
 
   { id: "creative-01", title: "Creative 01", category: "Other Creatives", aspectRatio: "9:16", thumbnail: "", videoUrl: "creative ugc.mp4", captions: "", summary: "", role: "", client: "", deliverables: [], featured: false },
   { id: "creative-02", title: "Creative 02", category: "Other Creatives", aspectRatio: "9:16", thumbnail: "", videoUrl: "VSL_AI_Generated.mp4", captions: "", summary: "", role: "", client: "", deliverables: [], featured: false },
-  { id: "creative-03", title: "Creative 03", category: "Other Creatives", aspectRatio: "9:16", thumbnail: "", videoUrl: "assets\videos\VSL _Genius_mind.mp4", captions: "", summary: "", role: "", client: "", deliverables: [], featured: false }
+  { id: "creative-03", title: "Creative 03", category: "Other Creatives", aspectRatio: "9:16", thumbnail: "", videoUrl: "VSL _Genius_mind.mp4", captions: "", summary: "", role: "", client: "", deliverables: [], featured: false }
 ];
 s
